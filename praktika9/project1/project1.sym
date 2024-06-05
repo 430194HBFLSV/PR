@@ -1,0 +1,67 @@
+__Lrdata 64 FFFFFF9F DATA
+__Hrbss 64 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 3 0 CODE
+__Birdata 3 FFFFFF9F DATA
+__Hirdata 64 FFFFFF9F DATA
+__Lirdata 64 FFFFFF9F DATA
+powerup 58 0 CODE
+__Htext 64 0
+__Ltext 64 0
+strx_copy 19 0 CODE
+__Hcode 64 0
+__Lcode 64 0
+__Hdata 140 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 64 0 XDATA
+__Hbss 64 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 64 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 3 0 CODE
+__S0 23F 0
+start1 44 0 CODE
+__Hnvram 64 0 XDATA
+small_model 1 0
+__Lnvram 64 0 XDATA
+__Hheap 64 0 XDATA
+__Lheap 64 0 XDATA
+_main 140 0 CODE
+str_copy 19 0 CODE
+?a_main 20 0 DATA
+_exit 55 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 19 0 CODE
+__Brbit 20 20 BITSEG
+str_load 19 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 64 0 DATA
+__Hidata 64 0 DATA
+__Lidata 64 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFF9F DATA
+__Hrdata 64 FFFFFF9F DATA
+%segments
+vectors 0 5A CODE
+rbit 0 43 BITSEG
+data 100 23E CODE
+%locals
+Z:\main_0.obj
+D:\Uni\praktika9\project1\main.c
+4 140 0 CODE
+6 143 0 CODE
+10 152 0 CODE
+11 184 0 CODE
+13 19B 0 CODE
+14 1AE 0 CODE
+11 1EE 0 CODE
+16 206 0 CODE
+9 238 0 CODE
+18 23B 0 CODE
