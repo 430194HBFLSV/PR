@@ -1,0 +1,93 @@
+__Lrdata 3A FFFFFFC9 DATA
+__Hrbss 3A 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 115 0 CODE
+__Birdata 3 FFFFFFC9 DATA
+__Hirdata 3A FFFFFFC9 DATA
+__Lirdata 3A FFFFFFC9 DATA
+powerup F7 0 CODE
+__Htext 3A 0
+__Ltext 3A 0
+?a_tput 39 0 DATA
+strx_copy 12B 0 CODE
+__Hcode 3A 0
+__Lcode 3A 0
+ldb_r0 12 0 CODE
+ldc_r0 E 0 CODE
+__Hdata 115 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 3A 0 XDATA
+ldb_r1 1F 0 CODE
+ldc_r1 1B 0 CODE
+__Hbss 3A 0 XDATA
+__Hstrings 100 0 CODE
+ldb_r2 2C 0 CODE
+ldc_r2 28 0 CODE
+__Lbss 3A 0 XDATA
+__Lstrings 100 0 CODE
+ldb_r3 39 0 CODE
+ldc_r3 35 0 CODE
+ldb_r4 46 0 CODE
+ldc_r4 42 0 CODE
+ldb_r5 53 0 CODE
+ldc_r5 4F 0 CODE
+str_xcopy 115 0 CODE
+__S0 182 0
+ldb_r6 60 0 CODE
+ldc_r6 5C 0 CODE
+ldb_r7 6D 0 CODE
+ldc_r7 69 0 CODE
+start1 E3 0 CODE
+__Hnvram 3A 0 XDATA
+small_model 1 0
+__Lnvram 3A 0 XDATA
+ldc_byte 3 0 CODE
+__Hheap 3A 0 XDATA
+__Lheap 3A 0 XDATA
+_main 8A 0 CODE
+str_copy 12B 0 CODE
+?a_main 20 0 DATA
+_exit F4 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+_tput 76 0 CODE
+_strlen 156 0 CODE
+strx_load 12B 0 CODE
+__Brbit 20 20 BITSEG
+str_load 12B 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 3A 0 DATA
+__Hidata 3A 0 DATA
+__Lidata 3A 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFC9 DATA
+__Hrdata 3A FFFFFFC9 DATA
+%segments
+vectors 0 F9 CODE
+rbit 0 19 BITSEG
+data 100 181 CODE
+%locals
+Z:\main_0.obj
+D:\Uni\DDMv1\Practices\praktika6\project1\main.c
+5 76 0 CODE
+6 78 0 CODE
+7 7A 0 CODE
+8 85 0 CODE
+9 87 0 CODE
+12 8A 0 CODE
+14 8C 0 CODE
+17 9B 0 CODE
+19 A6 0 CODE
+21 A9 0 CODE
+22 B0 0 CODE
+23 B7 0 CODE
+24 BA 0 CODE
+21 C4 0 CODE
+27 DE 0 CODE
+28 E0 0 CODE
