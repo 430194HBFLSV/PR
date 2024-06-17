@@ -1,0 +1,128 @@
+__Lrdata 38 FFFFFFCB DATA
+__Hrbss 38 0 DATA
+__Lrbss 20 0 DATA
+_move_cursor 138 0 CODE
+?_print 2C 0 DATA
+__Birdata 3 FFFFFFCB DATA
+__Hirdata 38 FFFFFFCB DATA
+__Lirdata 38 FFFFFFCB DATA
+powerup 8A 0 CODE
+__Htext 38 0
+__Ltext 38 0
+_print_char 12B 0 CODE
+?a_print 30 0 DATA
+__Hcode 38 0
+__Lcode 38 0
+ldb_r0 12 0 CODE
+ldc_r0 E 0 CODE
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 38 0 XDATA
+ldb_r1 1F 0 CODE
+ldc_r1 1B 0 CODE
+__Hbss 38 0 XDATA
+__Hstrings 10F 0 CODE
+ldb_r2 2C 0 CODE
+ldc_r2 28 0 CODE
+__Lbss 38 0 XDATA
+__Lstrings 100 0 CODE
+ldb_r3 39 0 CODE
+ldc_r3 35 0 CODE
+ldb_r4 46 0 CODE
+ldc_r4 42 0 CODE
+ldb_r5 53 0 CODE
+ldc_r5 4F 0 CODE
+__S0 31F 0
+ldb_r6 60 0 CODE
+ldc_r6 5C 0 CODE
+ldb_r7 6D 0 CODE
+ldc_r7 69 0 CODE
+start1 76 0 CODE
+_print 147 0 CODE
+__Hnvram 38 0 XDATA
+small_model 1 0
+__Lnvram 38 0 XDATA
+_move_right 11D 0 CODE
+ldc_byte 3 0 CODE
+__Hheap 38 0 XDATA
+__Lheap 38 0 XDATA
+_main 234 0 CODE
+?a_main 20 0 DATA
+_exit 87 0 CODE
+start 0 0 CODE
+_move_left 10F 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 38 0 DATA
+__Hidata 38 0 DATA
+__Lidata 38 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFCB DATA
+__Hrdata 38 FFFFFFCB DATA
+%segments
+vectors 0 8C CODE
+rbit 0 17 BITSEG
+data 100 31E CODE
+%locals
+Z:\main_0.obj
+D:\Shared\pr3\praktika3\main.c
+3 10F 0 CODE
+4 111 0 CODE
+5 114 0 CODE
+6 117 0 CODE
+7 11A 0 CODE
+9 11D 0 CODE
+10 11F 0 CODE
+11 122 0 CODE
+12 125 0 CODE
+13 128 0 CODE
+15 12B 0 CODE
+16 12D 0 CODE
+17 12F 0 CODE
+18 132 0 CODE
+19 135 0 CODE
+21 138 0 CODE
+22 13A 0 CODE
+23 13D 0 CODE
+24 140 0 CODE
+25 143 0 CODE
+27 147 0 CODE
+30 14A 0 CODE
+32 15B 0 CODE
+33 171 0 CODE
+34 183 0 CODE
+35 19D 0 CODE
+36 1B4 0 CODE
+33 1BB 0 CODE
+39 1D1 0 CODE
+41 1D3 0 CODE
+42 1E5 0 CODE
+43 200 0 CODE
+41 21A 0 CODE
+47 230 0 CODE
+49 234 0 CODE
+51 237 0 CODE
+52 23D 0 CODE
+53 243 0 CODE
+54 263 0 CODE
+56 283 0 CODE
+57 286 0 CODE
+59 28D 0 CODE
+61 294 0 CODE
+59 2A6 0 CODE
+64 2C0 0 CODE
+65 2C3 0 CODE
+66 2CA 0 CODE
+69 2CF 0 CODE
+70 2E4 0 CODE
+71 2FB 0 CODE
+69 303 0 CODE
+68 319 0 CODE
+74 31B 0 CODE
