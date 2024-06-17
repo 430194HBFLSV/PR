@@ -1,0 +1,86 @@
+__Lrdata 31 FFFFFFD2 DATA
+__Hrbss 31 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 3 0 CODE
+__Birdata 3 FFFFFFD2 DATA
+__Hirdata 31 FFFFFFD2 DATA
+__Lirdata 31 FFFFFFD2 DATA
+powerup 58 0 CODE
+__Htext 31 0
+__Ltext 31 0
+strx_copy 19 0 CODE
+__Hcode 31 0
+__Lcode 31 0
+__Hdata 10F 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 31 0 XDATA
+__Hbss 31 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 31 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 3 0 CODE
+__S0 280 0
+start1 44 0 CODE
+__Hnvram 31 0 XDATA
+small_model 1 0
+__Lnvram 31 0 XDATA
+__Hheap 31 0 XDATA
+__Lheap 31 0 XDATA
+_main 10F 0 CODE
+str_copy 19 0 CODE
+?a_main 20 0 DATA
+_exit 55 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 19 0 CODE
+__Brbit 20 20 BITSEG
+str_load 19 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 31 0 DATA
+__Hidata 31 0 DATA
+__Lidata 31 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD2 DATA
+__Hrdata 31 FFFFFFD2 DATA
+%segments
+vectors 0 5A CODE
+rbit 0 10 BITSEG
+data 100 27F CODE
+%locals
+Z:\main_0.obj
+D:\Shared\WSPR5\project1\main.c
+3 10F 0 CODE
+7 112 0 CODE
+8 121 0 CODE
+9 124 0 CODE
+10 127 0 CODE
+11 12A 0 CODE
+12 12D 0 CODE
+13 130 0 CODE
+14 133 0 CODE
+17 136 0 CODE
+18 138 0 CODE
+19 152 0 CODE
+20 16C 0 CODE
+21 186 0 CODE
+22 1A0 0 CODE
+24 1A2 0 CODE
+25 1A4 0 CODE
+26 1BE 0 CODE
+27 1D8 0 CODE
+28 1F2 0 CODE
+29 20C 0 CODE
+31 20E 0 CODE
+32 210 0 CODE
+33 229 0 CODE
+34 243 0 CODE
+35 25D 0 CODE
+36 277 0 CODE
+16 279 0 CODE
+38 27C 0 CODE
