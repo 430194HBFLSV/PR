@@ -1,0 +1,64 @@
+__Lrdata 28 FFFFFFDB DATA
+__Hrbss 28 0 DATA
+__Lrbss 20 0 DATA
+__Birdata 3 FFFFFFDB DATA
+__Hirdata 28 FFFFFFDB DATA
+__Lirdata 28 FFFFFFDB DATA
+powerup AF 0 CODE
+__Htext 28 0
+__Ltext 28 0
+__Hcode 28 0
+__Lcode 28 0
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 28 0 XDATA
+__Hbss 28 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 28 0 XDATA
+__Lstrings 100 0 CODE
+__S0 100 0
+start1 9B 0 CODE
+__Hnvram 28 0 XDATA
+small_model 1 0
+__Lnvram 28 0 XDATA
+__Hheap 28 0 XDATA
+__Lheap 28 0 XDATA
+_main 3 0 CODE
+?a_main 20 0 DATA
+_exit AC 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 28 0 DATA
+__Hidata 28 0 DATA
+__Lidata 28 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFDB DATA
+__Hrdata 28 FFFFFFDB DATA
+%segments
+vectors 0 B1 CODE
+rbit 0 7 BITSEG
+%locals
+Z:\main_0.obj
+C:\Users\KHIVSE~1\Desktop\PRAKTI~1\project1\main.c
+3 3 0 CODE
+7 6 0 CODE
+8 9 0 CODE
+9 F 0 CODE
+10 12 0 CODE
+11 29 0 CODE
+12 32 0 CODE
+13 3B 0 CODE
+15 44 0 CODE
+16 46 0 CODE
+18 75 0 CODE
+19 7D 0 CODE
+10 7F 0 CODE
+21 97 0 CODE
